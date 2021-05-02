@@ -40,6 +40,7 @@ header nav ul {
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
+    margin-right: 25px;
 }
 /* End of header style */
 
@@ -113,6 +114,10 @@ p {
     background-color: #2589bd;
     margin-bottom: 32px;
     color: #ffffff;
+}
+
+.benefits div {
+    padding: 15px;
 }
 
 .benefits h3 {
